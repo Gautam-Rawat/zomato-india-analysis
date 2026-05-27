@@ -4,3 +4,4 @@ __pycache__/
 .ipynp_checkpoiints/
 data/raw/*.csv
 .DS_Store
+.env
