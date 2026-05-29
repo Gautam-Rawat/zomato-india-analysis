@@ -4,7 +4,7 @@ End-to-end data analysis of 211,944 restaurants across 99 Indian cities using Zo
 
 ## Live Dashboard
 
-**[View the interactive dashboard on Tableau Public →](https://public.tableau.com/views/ZomatoIndia-RestaurantLandscapeAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[View the interactive dashboard on Tableau Public →](https://public.tableau.com/app/profile/gautam.rawat5921/viz/ZomatoIndia-RestaurantLandscapeAnalysis/Dashboard1)**
 
 ![Dashboard Preview](dashboards/dashboard_preview.png)
 
